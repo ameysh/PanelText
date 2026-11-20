@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Id": "com.github.ameysh.paneltext",
+        "Name": "PanelText",
+        "Description": "Display customizable text in the KDE Plasma panel",
+        "Version": "1.0",
+        "Category": "Utilities"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "Authors": [
+        {
+            "Name": "ameysh"
+        }
+    ],
+    "Website": "https://github.com/ameysh/PanelText"
+}
