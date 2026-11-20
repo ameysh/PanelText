@@ -3,6 +3,7 @@
         "Id": "com.github.ameysh.paneltext",
         "Name": "PanelText",
         "Description": "Display customizable text in the KDE Plasma panel",
+        "License": "MIT",
         "Version": "1.0.0",
         "Category": "Utilities"
     },
