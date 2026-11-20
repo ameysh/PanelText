@@ -9,7 +9,7 @@ A simple KDE Plasma 6 widget that displays custom text in the panel.
 - KDE Plasma 6
 
 > **Important:** This widget has only been tested on KDE Plasma 6.8. Other
-> Plasma 6 versions will probably work, but they are not currently verified. If you use this on any other version, please let me know the results.
+> Plasma versions will probably work, but they are not currently verified. If you use this on any other version, please let me know the results.
 
 ## Installation
 
