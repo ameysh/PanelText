@@ -2,6 +2,8 @@
 
 A simple KDE Plasma 6 widget that displays custom text in the panel.
 
+I created this widget for my own system, and thought it might be useful to others as well.
+
 ![PanelText widget in KDE Plasma](screenshots/PanelText.png)
 
 ## Requirements
